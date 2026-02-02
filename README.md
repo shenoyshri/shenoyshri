@@ -5,7 +5,7 @@
 ## 🛠️ Skills & Tools
 
 **Languages & Querying**
-- SQL (MySQL ![MySQL](https://img.shields.io), SQL Server ![SQL Server](https://img.shields.io))
+- SQL (MySQL, SQL Server)
 - Python (Pandas, NumPy)
 ---
 
