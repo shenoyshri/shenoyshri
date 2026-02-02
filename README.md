@@ -5,15 +5,8 @@
 ## 🛠️ Skills & Tools
 
 **Languages & Querying**
-- SQL (MySQL, SQL Server)
+- SQL (MySQL ![MySQL](https://img.shields.io), SQL Server)
 - Python (Pandas, NumPy)
----
-
-## 🌍 Experience Snapshot
-- Hands-on experience working with **international stakeholders**
-- Collaborated with teams across **Europe (Denmark, Germany)** in remote environments
-- Strong background in troubleshooting, analysis, and structured problem-solving
-
 ---
 
 ## 🤝 Let’s Connect
