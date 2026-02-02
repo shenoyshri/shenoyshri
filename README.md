@@ -24,7 +24,6 @@ I am a data-driven analyst with experience in analyzing operational, customer, a
 **Data Analysis & Visualization**
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
-- Matplotlib, Seaborn
 - Power BI, Excel
 
 **Analytics Concepts**
@@ -40,11 +39,9 @@ I am a data-driven analyst with experience in analyzing operational, customer, a
 - Customer behavior analysis
 - Revenue & growth metrics
 - Complex joins, CTEs, window functions
-
-🔹 **Python Data Analysis**
 - Sales & operations analysis
 - Customer churn & retention analysis
-- End-to-end EDA projects using real-world datasets
+
 
 🔹 **Power BI Dashboards**
 - Interactive dashboards with KPIs
@@ -71,7 +68,6 @@ I am a data-driven analyst with experience in analyzing operational, customer, a
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: **https://www.linkedin.com/in/shenoysrikanthp**
 - 📧 Email: **shenoy20shri@gmail.com**
-- 📊 GitHub: You’re already here 🙂
 
 ---
 
