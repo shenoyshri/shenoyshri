@@ -6,7 +6,7 @@
 
 **Languages & Querying**
 - SQL (MySQL, SQL Server)
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Matplotlib)
 ---
 
 ## 🤝 Let’s Connect
