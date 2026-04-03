@@ -12,8 +12,7 @@
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-![Langs](https://your-app-name.vercel.app/api/top-langs/?username=shenoyshri&layout=compact)
+
 ---
 ### 🔥 Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shenoyshri)
