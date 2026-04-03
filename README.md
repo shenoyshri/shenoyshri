@@ -12,11 +12,10 @@
 ---
 ### 🔥 Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shenoyshri)
---
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
---
-### Visitors
+---
 ![Visitors](https://komarev.com/ghpvc/?username=shenoyshri&label=Profile%20views&color=0e75b6&style=flat)
 ---
 ## 🤝 Let’s Connect
