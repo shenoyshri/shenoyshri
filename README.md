@@ -1,6 +1,6 @@
 # Hi 👋, I'm Srikanth Shenoy
 
-📊 **Data Analyst | Product & Business Analytics | SQL | Python | Power BI**
+📊 **Data Scientist and Analyst | Product & Business Analytics | SQL | Python | Power BI**
 ---
 # 💫 About Me:
 🔭 I’m currently working on: End-to-End Data Analytics projects using SQL, Python, Power BI, and Tableau<br><br>👯 I’m looking to collaborate on: Data Analytics, Data Visualization, and real-world dataset projects<br><br>🤝 I’m looking for help with: Advanced Data Modeling, Machine Learning basics, and improving dashboard storytelling<br><br>🌱 I’m currently learning: Advanced SQL, Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn, Streamlit), Paho-Mqtt for IoT applications and Data Warehousing concepts<br><br>💬 Ask me about: SQL queries, Data Cleaning, Dashboard creation in Power BI/Tableau, and analytics projects<br><br>⚡ Fun fact: I transitioned from engineering and project roles into Data Analytics and enjoy solving problems with data<br>
